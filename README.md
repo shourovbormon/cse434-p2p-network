@@ -1,6 +1,6 @@
 # UAP P2P Network – Communication and File Sharing
 
-**Course:** CSE 433 – Blockchain & Distributed Security Lab
+**Course:** CSE 434 – Blockchain & Distributed Security Lab
 **University:** University of Asia Pacific, Department of CSE
 **Student Name:** `<Shourov Chandra Bormon>`
 **Student ID:** `<22201028>`  **Section:** `<AB>`
