@@ -286,9 +286,9 @@ As specified in the assignment, this is an educational project. It does **not** 
 
 ---
 
-## 14. Screenshot Checklist (remove this section before final submission if you like)
+## 14. Screenshot Checklist 
 
-Create a folder named `screenshots/` next to this README and save the images with these names:
+
 
 | # | File name | What it must show |
 |---|---|---|
